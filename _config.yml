@@ -3,13 +3,13 @@ description: A simple, clean, and minimal Jekyll Theme.
 
 # Set this to your domain; baseurl is for the folder in your domain, if you have one -- `blog`.
 # you can leave both of them blank if you are deploying on a top-level domain.
-url: https://oinam.github.io
-baseurl: /oinam-jekyll
+url: https://aping.netlify.app
+baseurl: /
 
 # footer
 footer:
   credit: true
-  custom: false
+  custom: true
 
 # if above footer:custom is 'true', then this will be printed instead
 footer_custom: 'An ever Work-in-Progress effort by <a href="https://oinam.com">Oinam</a>.'
