@@ -8,11 +8,11 @@ baseurl:
 
 # footer
 footer:
-  credit: true
+  credit: false
   custom: true
 
 # if above footer:custom is 'true', then this will be printed instead
-footer_custom: 'An ever Work-in-Progress effort by <a href="https://oinam.com">Oinam</a>.'
+footer_custom: '<i class="fa-solid fa-code"></i> with <i class="fa-solid fa-heart"></i> by [APYNX](https://instagram.com/apynx)'
 
 layout:
   theme: default # default, vintage, nord
