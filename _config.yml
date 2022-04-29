@@ -12,7 +12,7 @@ footer:
   custom: true
 
 # if above footer:custom is 'true', then this will be printed instead
-footer_custom: '<i class="fa-solid fa-code"></i> with <i class="fa-solid fa-heart"></i> by [APYNX](https://instagram.com/apynx)'
+footer_custom: '<i class="fa-solid fa-code"></i> with <i class="fa-solid fa-heart"></i> by <a href="//instagram.com/apynx" title="follow my IG">[APYNX]</a>'
 
 layout:
   theme: default # default, vintage, nord
