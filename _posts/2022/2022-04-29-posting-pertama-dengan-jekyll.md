@@ -1,7 +1,9 @@
 ---
 layout: post
-comments: true
+categories: Pribadi
 title: "Posting Pertama dengan Jekyll"
+tags: jekyll, ruby, migrasi
+comments: true
 ---
 
 Ini adalah posting pertamaku di sini. Situs ini dibuat dengan Jekyll yang menggunakan bahasa pemrograman Ruby. Terima kasih untuk Github yang sudah menyediakan space hosting jadi situs ini bisa mengudara.
