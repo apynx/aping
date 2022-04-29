@@ -15,7 +15,7 @@ footer:
 footer_custom: '<i class="fa-duotone fa-solid fa-code" style="color: #0ca678;"></i> with <i class="fa-duotone fa-solid fa-heart" style="color: #e03131;"></i> by <a href="//instagram.com/apynx" title="follow my IG">[APYNX]</a>'
 
 layout:
-  theme: nord # default, vintage, nord
+  theme: default # default, vintage, nord
   theme_highlighter: vs # default, more at css/highlighter (source: https://github.com/richleland/pygments-css)
   theme_switch: false # enable or disable user toggle switch between light and dark theme
   home_posts_no: 6
